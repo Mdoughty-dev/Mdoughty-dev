@@ -5,6 +5,7 @@ I build things that explore systems — whether that’s code, people, or someth
 Right now I’m moving into:
 - 🧠 AI + perception (OpenFace 3.0 experiments)
 - 🎭 Surreal / subconscious-driven art systems
+- 🎭 OverTime / Unreal Engine c++ horror game
 - 🌐 Full-stack and real-time systems (recently finished a multiplayer game)
 
 ---
